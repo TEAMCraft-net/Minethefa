@@ -5,15 +5,25 @@ Welcome to the GTA Minecraft Plugin, a thrilling transformation of your Minecraf
 
 # Features
 **ATM Robbery**: Break into ATMs and steal money — just make sure the cops don't catch you!
+
 **Casino**: Test your luck and win (or lose) big at the casino.
+
 **Phone System**: Use your phone to interact with other players, make deals, and manage your criminal empire.
+
 **Vehicles**: Drive cars around the city for quick getaways or just to cruise around in style.
+
 **Food**: Hunger doesn’t stop crime! Enjoy a variety of food options to keep yourself fed and energized.
+
 **Weapons**: Arm yourself with an arsenal of weapons to defend yourself or go on the offensive.
+
 **Money System**: Earn (or steal) money, gamble it at the casino, or use it to buy items and weapons.
+
 **Player Robbery**: Rob other players and steal their hard-earned cash or valuables.
+
 **Jail & Fines**: Get arrested by a police officer or face fines based on your crimes.
+
 **Wanted Level**: The more crimes you commit, the higher your wanted level, making you a target for law enforcement!
+
 **Licenses**: Obtain and manage different licenses (Weapon License, Driver's License, Identification, Police Badge).
 
 # Planned Features
