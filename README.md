@@ -4,7 +4,7 @@ Welcome to the GTA Minecraft Plugin, a thrilling transformation of your Minecraf
 # ⚠️ Disclaimer: This plugin is still under development. Release date is currently TBD.
 
 # Features
-**ATM Robbery**: Break into ATMs and steal money—just make sure the cops don't catch you!
+**ATM Robbery**: Break into ATMs and steal money — just make sure the cops don't catch you!
 **Casino**: Test your luck and win (or lose) big at the casino.
 **Phone System**: Use your phone to interact with other players, make deals, and manage your criminal empire.
 **Vehicles**: Drive cars around the city for quick getaways or just to cruise around in style.
