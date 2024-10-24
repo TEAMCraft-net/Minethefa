@@ -40,9 +40,9 @@ Just write us on discord (isa.3527) or try to contact us on anyway you have.
 Stay tuned for updates!
 
 # Installation
-1. Download: Once released, download the plugin from [link will be here].
-2. Install: Place the plugin .jar file in your server's plugins folder.
-3. Run: Start or restart your server. Configuration files will generate automatically.
+1. **Download**: Once released, download the plugin from [link will be here].
+2. **Install**: Place the plugin .jar file in your server's plugins folder.
+3. **Run**: Start or restart your server. Configuration files will generate automatically.
 
 # License
 This plugin is currently closed-source and not available for public use. Release and licensing details will be updated once development is complete.
