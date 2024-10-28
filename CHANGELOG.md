@@ -1,7 +1,11 @@
 # 1.0
 ```diff
++ House App
++ Mobile Data Terminal [MDT] (WIP)
++ ATM Robbery (WIP)
 + Crate Improvements
-+ Working on Houses
++ Houses
 + Crates
-+ More Weapons
++ Food
++ Weapons
 ```
