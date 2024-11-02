@@ -16,7 +16,7 @@ Welcome to the GTA Minecraft Plugin, a thrilling transformation of your Minecraf
 
 **Weapons**: Arm yourself with an arsenal of weapons to defend yourself or go on the offensive.
 
-**Money System**: Earn (or steal) money, gamble it at the casino, or use it to buy items and weapons.
+**Economy**: Earn (or steal) money, gamble it at the casino, or use it to buy items and weapons.
 
 **Player Robbery**: Rob other players and steal their hard-earned cash or valuables. - keep your money in your bank and dont carry valuable stuff with you to be safe.
 
@@ -30,7 +30,6 @@ Welcome to the GTA Minecraft Plugin, a thrilling transformation of your Minecraf
 The plugin is actively under development, with new features planned, including:
 Advanced heist mechanics
 Custom player-controlled factions (gangs, police, etc.)
-Lootable chests
 Shops
 
 # Requests
